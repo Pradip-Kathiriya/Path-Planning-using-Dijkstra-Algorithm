@@ -18,8 +18,11 @@ https://user-images.githubusercontent.com/90370308/218536050-cec181d2-b490-427f-
     ```
     git clone https://github.com/Pradip-Kathiriya/Path-Planning-using-Dijkstra-Algorithm
     ```
-- Navigate to the repository and run the below command
-
+    
+- Open the terminal
+    ```
+    $ cd root to directory
+    ```
     ```
     python dijkstra.py
     ```
